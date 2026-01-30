@@ -8,11 +8,11 @@ It features a color TFT display with a classic oscilloscope grid, adjustable ver
 The interface is controlled using rotary encoders, and the device boots with a custom splash screen, because instruments can be functional and cute. The overall aesthetic was intentionally designed to be soft and friendly, with pastel tones and a personal touch that makes it feel less like a lab instrument and more like something made by a person who genuinely enjoys electronics.
 
 ## Screenshots
-  - [`case.png`](images/case.png)
-  - [`oscilloscope_3d.png`](images/oscilloscopio_3d.png)
-  - [`oscilloscope_pcb.png`](images/oscilloscopio_pcb.png)
-  - [`oscilloscope_schematic.png`](images/oscilloscopio_schematic.png)
-  - [`top.png`](images/top.png)
+![case.png](images/case.png)
+![oscilloscope_3d.png](images/osciloscopio_3d.png)
+![oscilloscope_pcb.png](images/osciloscopio_pcb.png)
+![oscilloscope_schematic.png](images/osciloscopio_schematic.png)
+![top.png](images/top.png)
 
 ## Project Structure
 ```
